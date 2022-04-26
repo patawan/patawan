@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello There! (General Kenobi) 👋
+
+I am a Data Engineer with many years of experience in the financial services industry, and several years in IT, plus a master’s degree in Data Analytics. I have built expertise within AWS, holding multiple certifications, and creating robust software stacks with infrastructure as code. In my free time I use my own personal "home lab" to learn about new technologies and practice new tech skills in a fun and low-pressure environment.
 
 <!--
 **patawan/patawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
